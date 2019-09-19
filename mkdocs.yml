@@ -1,0 +1,12 @@
+site_name: TotalProd
+theme: readthedocs
+
+extra_css:
+    - css/extra_css.css
+    
+nav: 
+    - Home: index.md
+    - Cadastro: cadastro.md
+    - Financeiro: financeiro.md
+    - Gerencial: gerencial.md
+    
