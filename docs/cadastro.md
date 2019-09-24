@@ -1,7 +1,7 @@
 ##Iniciando cadastro TotalProd 
 vamos dividir o seu cadastro em três passos simples. primeiro,na tela principal selecione seu plano de preferência.em seguida você será redirecionado para nossa **tela de cadastro**.preencha todos os dados corretamente para que não haja problemas futuros. em seguida,clique no botão **avançar** para o próximo passo.
 
-![tela de cadastro](https://media.giphy.com/media/KEeawQKh2MDJs2zhyG/giphy.gif)
+<img alt="tela de cadastro" src="https://media.giphy.com/media/KEeawQKh2MDJs2zhyG/giphy.gif" class="img-width">
 
 se você preencheu corretamente,você será redirecionado para o segundo passo.**cadastrar colaboradores**, nessa página vocẽ deve casdatrar o seu **financeiro**,**administrador** e **operacional**, não precisa ser necessariamente um cada.
 os dados a serem preenchidos são os mesmos para os três [colaboradores](index.rst). depois de cadastra-los clique em **avançar** para o último passo.

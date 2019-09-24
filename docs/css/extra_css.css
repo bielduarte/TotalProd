@@ -1,5 +1,19 @@
+.img-width{
+    width: 100%;
+    
+}
+.wy-side-nav-search{
+    background-color: #6174c3;
+}
 
-rst-content img {
-    width: 0000%;
+.wy-nav-side{
+    background-color: #222;
+}
 
+.wy-nav-top{
+    background: #6174c3;
+}
+
+body {
+    color: #000000
 }
