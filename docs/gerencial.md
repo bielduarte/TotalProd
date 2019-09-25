@@ -25,7 +25,7 @@ Nesta seção você terá acesso a todas as informações gerais e legais sobre 
 ## Gerenciar Colaboradores
 Nesta seção você terá aceeso a uma lista com todos os colaboradores da empresa,suas respectivas funções e todas as informações fornecidas duranter o cadastro inicial.
 (img gerenciar colaoradores)
-### Adicionar um novo colaborador
+## Adicionar um novo colaborador
 dentro da página Gerencial selecione a opção Gerenciar colaboradores.Em seguida, no canto superior direito clique em **+novo**.
 (gif novo colaborador)
 Posteriormente,será exibida uma tela de cadastro para preencher.adicione os dados corretamente e em seguida vizualize seu novo colaborador em Gerenciar Colaboradores.

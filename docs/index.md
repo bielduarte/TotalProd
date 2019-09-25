@@ -1,52 +1,21 @@
-## iniciando navegação TotalProd
- na tela incial você terá três opções para dar inicio a sua navegação e começar a gerenciar sua empresa da maneira mais fácil e prática.
+# TotalProd 
 
-### finaceiro:
-#### caixa e bancos 
--[como fazer um lançamento avulso?](financeiro.md)
+TotalProd é uma plataforma de gerenciamento administrativo empresarial para médio e micro empresas,que disponibiliza recursos administrativos a qualquer hora e de fácil acesso,tais como gestão financeira,controle de estoque,controle de vendas,gestão de contratos,dentre outras diversas vantagens que a esta plataforma proporciona ao cliente.
 
--[como fazer transferências internas?]()
+## Gestão Financeira 
 
--[vizualizar extratos]()
+O TotalProd abrange diversas ferramentas para o total contole financeiro,compreende todas suas despesas e receitas vinculadas com seu capital disponivel,tendo como intuito proporcionar uma visão mais detalhada para alavancar os lucros.
 
--[como vizualizar extratos por tipo de operação]()
+Dessa forma,a plataforma diponibiliza relatórios com o objetivo de fornecer dados para a gestão do negócio, permitindo a extração de informações que **facilitem a tomada de decisão**.Ademais, registros fiéis à realidade. Sem erros, os relatórios serão um indicador confiável sobre a atual situação da empresa.No TotalProd você tem a vantagem de poder filtrar o periodo do relatório que você estimar,para maiores detalhes.
+## Controle de estoque
 
--[como vizualizar saldos e receitas por período?]()
+Equilíbrio entre compra e venda, o direcionamento adequado dos estoques é outro fator fundamental para o planejamento e sucesso de qualquer empresa. Busca reduzir ao máximo as quantidades de produto, aumenta o capital de giro, reduz custos e amplia o desempenho operacional da organização.
 
-#### despesas
--[como vizualizar e listar os tipos de despesas?]()
+A partir deste ponto, a empresa consegue atender toda a demanda e obter maior lucro, proporcionando aos consumidores um atendimento com maior eficiência e eficácia. Com o TotalProd você tem todo o controle do seu estoque de maneira rápida e prática. 
+## Controle de vendas
+Vender é a principal atividade de qualquer negócio, não importa o tamanho ou segmento. entretanto,com muita demanda de vendas pode ocorrer desvios que acarretam em saldos negativos para a empresa.com o TotalProd você tem todo o Contole de todos os seus produtos. relacionando sua empresa com seus clientes e apresentando todas a entradas e saídas com seus devidos valores.  
+## Gestão de contratos
+É de grande importância a Gestão de Contratos nas Empresas.Gerir um contrato significa administrar o mesmo para que tudo ocorra conforme acordado ou, até mesmo, melhor do que fora previsto. Desse modo, ambas as partes beneficiam-se do sucesso da gestão contratual eficiente.
 
--[como listar categorias de fornecedores?]()
+nesse sentido, o TotalProd proporciona a criação e fiscalização de contratos podendo o usuraio efetuar alterações e ter uma melhor administrção das receitas vigentes do periodo contratual. 
 
--[aprovar pagamentos agendados]()
-
--[adicionar despesas remotas]()
-
--[relatórios de despesas]()
-
-#### receitas 
--[listar tipos de receitas]()
-
--[listar clientes]()
-
--[listar categoias de clientes]()
-
--[vizualizar produtos e adicionar]()
-
-### Gerencial:
-
-#### relatórios
-[receita?]()
-
-[despeasa?]()
-
-[despesa/receita]()
-
-[contratos e produtos]()
-
-#### gerenciar empresa
-(a ser adicionado)
-
-#### gerenciar colaboradores
-[como adicionar um novo colaborador?]()
-[como remover um colaborador?]()
