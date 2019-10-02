@@ -53,78 +53,114 @@ Posteriormente,os dados de saldo e receita serão atuliazados de acordo com o pe
 ![saldos e receotas](/img/saldosereceita.png)
 ## Caixa
 Nesta seção você terá aceeso ao gerenciamento detalhado do seu caixa.
+<img alt="saldos e recitas" src="https://media.giphy.com/media/VbWDwAjkJJtPfh20st/giphy.gif">
+
 ### Fazer um lançamento avulso
 Na visão geral do seu caixa clique na opção lançamento avulso onde será mostrado uma tela para a você preencher.
-
-(img lançamento avulso)
+![saldos e receotas](/img/lançamentocaixa.png)
 
 Posteriormente, preencha a os dados sugeridos na tela de lançamento e clique em concluir.
 
-(gif lamnçamento avulso)
+<img alt="saldos e recitas" src="https://media.giphy.com/media/kdWZwjAYCXJhFpDsDW/giphy.gif">
 
 ### Fazer transferências internas
 A transferencia interna é uma area da da plataforma para interligar caixa e banco e facilitar a transferência burocratica. para realizar uma tranferência interna, clique na opção lançamento avulso e em seguida selecione a operação tranferência.
 
- (imagem transferência )
+![saldos e receotas](/img/caixatrans.png)
+
  
 Posteriormente, preencha os dados que serão exibidos para você.
 
- (gif de preenchimento transferências)
+<img alt="saldos e recitas" src="https://media.giphy.com/media/hrFVk89DSP79s1iUM6/giphy.gif">
+
 
 ### Vizualizar extratos
 Dentro da visão geral do seu caixa no canto inferior direito clique na opção **extrato** 
 e em seguida você terá acesso ao seu extrato de acorso com o periodo selecionado
 ### Vizualizar os movimentos por tipo de operação
 Dentro do da visão geral do seu caixa selecine a opção **resumo por tipo**.
-(gif resumo por tipo)
+
+<img alt="saldos e recitas" src="https://media.giphy.com/media/PkS0mMEOk50WUReZec/giphy.gif">
+
 
 Posteriormente será mostrado uma tela com todos os movimentos da sua conta de acordo
 com o periodo que você selicionar.
 
-(imagem de resumo por tipo)
+![saldos e receotas](/img/resumocaixa.png)
 
 ### Vizualizar saldos e receitas por período
 Dentro da visão geral do seu caixa clique em periodo e selecione tempo que você desejar.
 para maior controle limitamos o tempo do periodo em três meses com o intuito de não acumular muitas informações e facilitar seu gerenciamento.
 
-(gif selecionar periodo)
+<img alt="finaceiro" src="https://media.giphy.com/media/Qy7ap38JYtDMuMPecF/giphy.gif">
 
 Posteriormente,os dados de saldo e receita serão atuliazados de acordo com o periodo selecionado.
 
-(salso e receitas caixa)
+![saldos e receotas](/img/saldoereceitas.png)
+
+
 ## Despesas
+definição e do caminho para chegar até esta seção.
 
 ### vizualizar e listar os tipos de despesas
+
 Dentro da página de contas a pagar ,será exibido uma serie de opções, selecione a opção **listar Tipos de Despesas**, em seguida será mostrado uma tela com todos os seus tipos de despesas.
 
 (gif para vizualizar tipos de despesas)
 ### adicionar um novo tipo de despesa
- Dentro da página de contas a pagar clique na opçâo **nova despesa** digite o tipo que você deseja 
+Dentro da página de contas a pagar clique na opçâo **Listar Tipos de Despesas**. 
 
- (gif adcionando tipo de despesas) 
+(img adcionando tipo de despesas) 
 
-Posteriormente,visualize-a em listar tipos de despesas.
+Em seguida, canto superior direito clique em **Novo tipo** e digite o tipo de despesa que você desejar.
+
+(img adionando tipo de despesas)
 
 ### listar categorias de fornecedores
  Dentro da página de contas a pagar selecione a opção **listar categorias de fornecedores**  em seguida será mostrado uma tela com todos os seus tipos de fornecedores.
- (gif listar fornecedores).
+
+(img listar fornecedores).
+
+(img lista de fornecedores).
 
 ### Adicionar uma nova categoria de fornecedores
  Nentro da pagina de contas a pagar selecione a opção listar categoria de clientes e em seguida no canto superior direito da sua tela clique em nova categoria.
-(gif listar npva categoria)
-posteriormente,digite o nome da categoria que você desejar.
+
+(img listar npva categoria)
+
+posteriormente,digite o nome da categoria que você desejar
+
 (gif categoria)
 ### Aprovar pagamentos agendados
 Na página de contas a pagar selcione a opção **aprovar pagamentos agendados**, em seguida será exibido uma página com suas aprovaçẽs pendentes de acordo com o periodo que você selecionar,clique em aprovar e automaticamente será aprovado.
-(gif de aprovarpagamentos).  
+
+(gif de aprovarpagamentos) 
+
+### Vizualizar Contas Fixas
+Dentro da página de contas a pagar selecione a opção **Contas fixas**, em seguida será mostrado todas suas despesas fixas.
+
+(img contas fixas)
+
+### Adicionar uma despesa vinculada um Fornecedor.
+Dentro da pagina de contas a pagar clique em **nova despesa**,em seguida, selecione o fornecedor que você desejar.
+
+(img nova despesa)
+
+Posteriormente será exibido uma tela para você fornececer os dados da sua npva despesa.
+
+(gif nova despesa)
+
 
 <!-- ### adicionar despesas remotas -->
 
 ### Relatórios de despesas
 Dentro da pagina de contas a pagar, na parte inferior da sua tela selecione o periodo 
-que você desja e em seguida logo abaixo será exibido todos as suas despesas de acodrdo periodo selecionado.
+que você desejar e em seguida logo abaixo será exibido todos as suas despesas de acodrdo periodo selecionado.
+
+(gif selecionar periodo)
 
 ## Receitas 
+definição e gifde como chegar até esta seção.
 ### Listar tipos de receitas
 Na página de contas a receber selecione a opção **listar tipo de receitas**.Em seguida,será exibido uma tela com todas as suas receitas.
 ### Adiocionar uma nova receita
