@@ -106,58 +106,59 @@ definição e do caminho para chegar até esta seção.
 
 Dentro da página de contas a pagar ,será exibido uma serie de opções, selecione a opção **listar Tipos de Despesas**, em seguida será mostrado uma tela com todos os seus tipos de despesas.
 
-(gif para vizualizar tipos de despesas)
+<img alt="saldos e recitas" src="https://media.giphy.com/media/UrsOg8QhpcYVcwMPrP/giphy.gif">
+
+
 ### adicionar um novo tipo de despesa
 Dentro da página de contas a pagar clique na opçâo **Listar Tipos de Despesas**. 
 
-(img adcionando tipo de despesas) 
+![tipos de despesas](/img/listardespesas.png)
 
 Em seguida, canto superior direito clique em **Novo tipo** e digite o tipo de despesa que você desejar.
 
-(img adionando tipo de despesas)
+![tipos de despesas](/img/novotipodespesa.png)
 
 ### listar categorias de fornecedores
  Dentro da página de contas a pagar selecione a opção **listar categorias de fornecedores**  em seguida será mostrado uma tela com todos os seus tipos de fornecedores.
 
-(img listar fornecedores).
-
-(img lista de fornecedores).
+![tipos de despesas](/img/listarfornecedores.png)
 
 ### Adicionar uma nova categoria de fornecedores
- Nentro da pagina de contas a pagar selecione a opção listar categoria de clientes e em seguida no canto superior direito da sua tela clique em nova categoria.
+ Dentro da pagina de contas a pagar selecione a opção listar categoria de clientes e em seguida no canto superior direito da sua tela clique em nova categoria.
 
-(img listar npva categoria)
+![tipos de despesas](/img/novacategria.png)
 
 posteriormente,digite o nome da categoria que você desejar
 
-(gif categoria)
+<img alt="saldos e recitas" src="https://media.giphy.com/media/QsaYT19sAnOyjnG55W/giphy.gif">
+
 ### Aprovar pagamentos agendados
 Na página de contas a pagar selcione a opção **aprovar pagamentos agendados**, em seguida será exibido uma página com suas aprovaçẽs pendentes de acordo com o periodo que você selecionar,clique em aprovar e automaticamente será aprovado.
 
-(gif de aprovarpagamentos) 
+<img alt="saldos e recitas" src="https://media.giphy.com/media/YP1mHYb8gQMJDoAa5X/giphy.gif">
 
 ### Vizualizar Contas Fixas
 Dentro da página de contas a pagar selecione a opção **Contas fixas**, em seguida será mostrado todas suas despesas fixas.
 
-(img contas fixas)
+![tipos de despesas](/img/contasfixas.png)
 
 ### Adicionar uma despesa vinculada um Fornecedor.
 Dentro da pagina de contas a pagar clique em **nova despesa**,em seguida, selecione o fornecedor que você desejar.
 
-(img nova despesa)
-
-Posteriormente será exibido uma tela para você fornececer os dados da sua npva despesa.
-
-(gif nova despesa)
+![tipos de despesas](/img/novadespesa.png)
 
 
+Posteriormente será exibido uma tela para você fornececer os dados da sua nova despesa.
+
+<img alt="saldos e recitas" src="https://media.giphy.com/media/S9EhsRjH0YvghlvQFz/giphy.gif">
 <!-- ### adicionar despesas remotas -->
 
 ### Relatórios de despesas
 Dentro da pagina de contas a pagar, na parte inferior da sua tela selecione o periodo 
 que você desejar e em seguida logo abaixo será exibido todos as suas despesas de acodrdo periodo selecionado.
 
-(gif selecionar periodo)
+<img alt="saldos e recitas" src="https://media.giphy.com/media/SvF40EV7hQkxQ0Yb2i/giphy.gif">
+
 
 ## Receitas 
 definição e gifde como chegar até esta seção.
