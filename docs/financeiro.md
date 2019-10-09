@@ -12,7 +12,7 @@ Nesta seção você terá aceeso ao gerenciamento detalhado da sua conta bancár
 ### Fazer um lançamento avulso
 Na visão geral do seu banco clique na opção **lançamento avulso** onde será mostrado uma tela para a você preencher.
 
-![teste](/img/vgcontab.png)
+<img alt="lançamento avulso" src="https://i.ibb.co/SXb4D5C/lan-amentoavulso.png">
 
 Posteriormente, preencha a os dados sugeridos na tela de lançamento e clique em concluir.
 
@@ -20,7 +20,7 @@ Posteriormente, preencha a os dados sugeridos na tela de lançamento e clique em
 
 ### Fazer transferências internas
 A transferencia interna é uma area da da plataforma para interligar caixa e banco e facilitar a transferência burocratica. para realizar uma tranferência interna, clique na opção lançamento avulso e em seguida selecione a operação tranferência.
-![tranferencia](/img/transferencia.png)
+<img alt="tranferência interna" src="https://i.ibb.co/j5FRTrx/transferencia.png">
  
 Posteriormente, preencha os dados que serão exibidos para você.
 
@@ -39,7 +39,7 @@ Dentro do da visão geral do seu banco selecine a opção **resumo por tipo**.
 Posteriormente será mostrado uma tela com todos os movimentos da sua conta de acordo
 com o periodo que você selicionar.
 
-![resumoportipo](/img/resumoportipo.png)
+<img alt="resumo por tipo" src="https://i.ibb.co/23sys8s/resumoportipo.png">
 
 
 ### Vizualizar saldos e receitas por período
@@ -50,29 +50,29 @@ para maior controle limitamos o tempo do periodo em três meses com o intuito de
 
 Posteriormente,os dados de saldo e receita serão atuliazados de acordo com o periodo selecionado.
 
-![saldos e receotas](/img/saldosereceita.png)
+<img alt="saldos e receita conta bancária" src="https://i.ibb.co/sbmMWpk/saldoereceitas.png">
+
 ## Caixa
 Nesta seção você terá aceeso ao gerenciamento detalhado do seu caixa.
 <img alt="saldos e recitas" src="https://media.giphy.com/media/VbWDwAjkJJtPfh20st/giphy.gif">
 
 ### Fazer um lançamento avulso
 Na visão geral do seu caixa clique na opção lançamento avulso onde será mostrado uma tela para a você preencher.
-![saldos e receotas](/img/lançamentocaixa.png)
+
+<img alt="lançamento avulso" src="https://i.ibb.co/NFn5DZ6/lan-amentocaixa.png">
 
 Posteriormente, preencha a os dados sugeridos na tela de lançamento e clique em concluir.
 
-<img alt="saldos e recitas" src="https://media.giphy.com/media/kdWZwjAYCXJhFpDsDW/giphy.gif">
+<img alt="lançamento avulso" src="https://media.giphy.com/media/kdWZwjAYCXJhFpDsDW/giphy.gif">
 
 ### Fazer transferências internas
 A transferencia interna é uma area da da plataforma para interligar caixa e banco e facilitar a transferência burocratica. para realizar uma tranferência interna, clique na opção lançamento avulso e em seguida selecione a operação tranferência.
 
-![saldos e receotas](/img/caixatrans.png)
-
+<img alt="tranferência interna caixa" src="https://i.ibb.co/0QBqFSK/caixatrans.png">
  
 Posteriormente, preencha os dados que serão exibidos para você.
 
 <img alt="saldos e recitas" src="https://media.giphy.com/media/hrFVk89DSP79s1iUM6/giphy.gif">
-
 
 ### Vizualizar extratos
 Dentro da visão geral do seu caixa no canto inferior direito clique na opção **extrato** 
@@ -82,11 +82,10 @@ Dentro do da visão geral do seu caixa selecine a opção **resumo por tipo**.
 
 <img alt="saldos e recitas" src="https://media.giphy.com/media/PkS0mMEOk50WUReZec/giphy.gif">
 
-
 Posteriormente será mostrado uma tela com todos os movimentos da sua conta de acordo
 com o periodo que você selicionar.
 
-![saldos e receotas](/img/resumocaixa.png)
+<img alt="resumo por tipo caixa" src="https://i.ibb.co/4897zrn/resumocaixa.png">
 
 ### Vizualizar saldos e receitas por período
 Dentro da visão geral do seu caixa clique em periodo e selecione tempo que você desejar.
@@ -96,7 +95,7 @@ para maior controle limitamos o tempo do periodo em três meses com o intuito de
 
 Posteriormente,os dados de saldo e receita serão atuliazados de acordo com o periodo selecionado.
 
-![saldos e receotas](/img/saldoereceitas.png)
+<img alt="saldos e receitas caixa" src="https://i.ibb.co/Yc5PwVh/saldosereceita.png">
 
 
 ## Despesas
@@ -112,21 +111,21 @@ Dentro da página de contas a pagar ,será exibido uma serie de opções, seleci
 ### adicionar um novo tipo de despesa
 Dentro da página de contas a pagar clique na opçâo **Listar Tipos de Despesas**. 
 
-![tipos de despesas](/img/listardespesas.png)
+<img alt="listar tipos de despesas" src="https://i.ibb.co/SRrqfJt/listardespesas.png">
 
 Em seguida, canto superior direito clique em **Novo tipo** e digite o tipo de despesa que você desejar.
 
-![tipos de despesas](/img/novotipodespesa.png)
+<img alt="novo tipo despesa" src="https://i.ibb.co/r5j6pmH/novotipodespesa.png">
 
 ### listar categorias de fornecedores
  Dentro da página de contas a pagar selecione a opção **listar categorias de fornecedores**  em seguida será mostrado uma tela com todos os seus tipos de fornecedores.
 
-![tipos de despesas](/img/listarfornecedores.png)
+<img alt="listar categoria de fornecedores" src="https://i.ibb.co/5j2V0Qb/listarfornecedores.png">
 
 ### Adicionar uma nova categoria de fornecedores
  Dentro da pagina de contas a pagar selecione a opção listar categoria de clientes e em seguida no canto superior direito da sua tela clique em nova categoria.
 
-![tipos de despesas](/img/novacategria.png)
+<img alt="nova cateoria de fornecedor" src="https://i.ibb.co/7JzDg0s/novacategria.png">
 
 posteriormente,digite o nome da categoria que você desejar
 
@@ -140,13 +139,12 @@ Na página de contas a pagar selcione a opção **aprovar pagamentos agendados**
 ### Vizualizar Contas Fixas
 Dentro da página de contas a pagar selecione a opção **Contas fixas**, em seguida será mostrado todas suas despesas fixas.
 
-![tipos de despesas](/img/contasfixas.png)
+<img alt="contas fixas" src="https://i.ibb.co/DD1gCXL/contasfixas.png">
 
 ### Adicionar uma despesa vinculada um Fornecedor.
 Dentro da pagina de contas a pagar clique em **nova despesa**,em seguida, selecione o fornecedor que você desejar.
 
-![tipos de despesas](/img/novadespesa.png)
-
+<img alt="nova despesa" src="https://i.ibb.co/34s1NdC/novadespesa.png">
 
 Posteriormente será exibido uma tela para você fornececer os dados da sua nova despesa.
 
@@ -164,28 +162,72 @@ que você desejar e em seguida logo abaixo será exibido todos as suas despesas 
 definição e gifde como chegar até esta seção.
 ### Listar tipos de receitas
 Na página de contas a receber selecione a opção **listar tipo de receitas**.Em seguida,será exibido uma tela com todas as suas receitas.
+
+<img alt="Listar tipos de receitas" src="https://i.ibb.co/X4MRxbM/listartipodedespesa.png">
+
+### Adicionar um novo tipo de receitas
+Na paǵina de contas a receber,selecione a opção de listar tipos de receitas.
+
+Posteriormente no canto suprior direito clique na opção **novo tipo** e digite o nome do tipo que você desejar.
+
+<img alt="novo tipo receita gif" src="">
+
 ### Adiocionar uma nova receita
-NA página de contas a receber, clique em **nova receita** e digite o tipo de receita que você desejar.
-(gif adicionar receita)
+NA página de contas a receber, clique em **nova receita** e selecione o tipo de receita que você ja cadastrou.
+
+<img alt="nova receita " src="https://i.ibb.co/58x6gtL/novareceita.png">
+
+Posteriormente, será exibido uma tela para guiá-lo na sua nova receita.
+(imagem da tela de nova receita)
+Primeiro selecione a quantidade de produtos que você deseja.
+(gif adiocionar quantidade)
+Em seguida selecione a forma de pagamento que você deseja receber.
+(gif selecionar pagamento nova receita)
+
+Caso você queira adicionar um produto que ainda não exite na sua lista,clique em 
+**Novo Produto**, e adicione-o com um nome e o seu valor unitário.
+Ao concluir estes passos,clique em finalizar para e vizualiaze-a em relatório de receitas. 
+
 ### Listar clientes
 na página de contas a receber selecione a opção **listar clientes**. Em seguida, será exibido uma tela com todos os seus clientes.
+
+<img alt="listar clientes" src="https://i.ibb.co/pJXj5JX/listarcliente.png">
+
 ### Cadastrar um novo cliente
 Na página de contas a receber selecione a opção listar clientes e em seguida no canto superior direito
 clique em **novo cliente**.
-( gif adicionar um novo cliente ) 
+
+<img alt="novo cliente" src="https://i.ibb.co/9gbvt34/novocliente.png">
+
 Posteriormente, preencha os dados sugeridos na tela de cadastro para o novo clientes.
-(gif cadastro cliente)
-### Listar categorias de clientes
+<img alt="cadastrar cliente gif " src="">
+
+Ou vocẽ pode usar um atalho para o mesmo intuito. na mesma página clique na opção **nova receita** e digite o nome do seu cliente. em seguida clique salvar.
+
+Posteriormente,será exibido uma tela de cadastro para o preechimento dos dados do novo cliente.preencha todos e clique em **salvar**, vizualize-o em listar clientes.
+
+### Listar categorias de Clientes
+
 Na página de contas a receber, selecione a opção **listar categorias de clientes**.Em seguida será exibido um tela com todos os seus clientes separados por categrias.
-(gif listar categorias)
+<img alt="listar categoria de clientes " src="https://i.ibb.co/1QNwfsD/listarcategoriacliente.png">
+
 ### Cadastrar uma nova categoria
 Na página de contas a receber, selecione a opção listar categoria de clientes e em seguida no canto superior direito selecione a opção **nova categoria**.
-(gif nova categoria)
+
+<img alt="nova categoria cliente" src="https://i.ibb.co/J2BXQp2/novacategoria.png">
+
 Posteriormente,digite o nome da sua nova categoria e vizualize-a em listar categotias de clientes
+
+<img alt="nova categoria cliente gif " src="">
+
 ### Vizualizar produtos
+
 Na página de contas a receber, selecione a opção **produtos**.Em seguida será exibido uma tela com todos os seus produtos ja cadastrados. 
 
 ### Adiconar produtos 
+
 Na pagina de contas a receber selecione a opção Produtos e em seguidano canto superior direito selecione a opção **Novo Produto**
+
 e insira o seu nome e o valor unitário.
-(gif adicionar produtos)
+
+(gif adicionar produtos)DEIXA QUETO POR HOJE
