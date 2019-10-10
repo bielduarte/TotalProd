@@ -159,35 +159,42 @@ que você desejar e em seguida logo abaixo será exibido todos as suas despesas 
 
 
 ## Receitas 
-definição e gifde como chegar até esta seção.
+A receita é algo que agrega valor, que traz benefícios, que visa provisões positivas. A receita financeira se define por ser imprescindível no contexto dos negócios e do planejamento financeiro da sua empresa.No TotalProd você tem um aceeso uma série de ferramentas para agregar no controle da sua receita e aumentar sua lucratividade.Após acessar sua conta TotalProd,clique na opção **Financeiro** em seguida entre em **Receitas** e você terá a ceeso a todas estas ferramentas.
+
+<img alt="entrar na seção receita" src="">
+
 ### Listar tipos de receitas
 Na página de contas a receber selecione a opção **listar tipo de receitas**.Em seguida,será exibido uma tela com todas as suas receitas.
 
 <img alt="Listar tipos de receitas" src="https://i.ibb.co/X4MRxbM/listartipodedespesa.png">
 
 ### Adicionar um novo tipo de receitas
-Na paǵina de contas a receber,selecione a opção de listar tipos de receitas.
+Na paǵina de contas a receber,selecione a opção de listar tipos de receitas.Posteriormente no canto suprior direito clique na opção **novo tipo** e digite o nome do tipo que você desejar.
 
-Posteriormente no canto suprior direito clique na opção **novo tipo** e digite o nome do tipo que você desejar.
-
-<img alt="novo tipo receita gif" src="">
+<img alt="novo tipo receita gif" src="https://media.giphy.com/media/RNVdzgVY6bgwcNSuYd/giphy.gif">
 
 ### Adiocionar uma nova receita
-NA página de contas a receber, clique em **nova receita** e selecione o tipo de receita que você ja cadastrou.
+Na página de contas a receber, clique em **nova receita** e selecione o cliente para qual vocẽ irá direcionar este processo.
 
 <img alt="nova receita " src="https://i.ibb.co/58x6gtL/novareceita.png">
 
 Posteriormente, será exibido uma tela para guiá-lo na sua nova receita.
-(imagem da tela de nova receita)
-Primeiro selecione a quantidade de produtos que você deseja.
-(gif adiocionar quantidade)
-Em seguida selecione a forma de pagamento que você deseja receber.
-(gif selecionar pagamento nova receita)
 
-Caso você queira adicionar um produto que ainda não exite na sua lista,clique em 
-**Novo Produto**, e adicione-o com um nome e o seu valor unitário.
-Ao concluir estes passos,clique em finalizar para e vizualiaze-a em relatório de receitas. 
+<img alt="Tela de inserção de dados" src="https://i.ibb.co/3f9wLGw/telanovareceita.png">
+Primeiro selecione a quantidade de produtos que você desejar clicando no botão **(+)** referente ao produto desejado.
 
+<img alt="Adicionar quantidade de produto" src="https://media.giphy.com/media/ihT3TVfO3nfiGn4Qbs/giphy.gif">
+
+Caso você queira alterar o valor da quantidade,ao lado direito da tela clique no produto desejado e edite-o.Em seguida selecione a forma de pagamento que você deseja receber clicando em **Forma de Pagaento**.
+
+<img alt="Adiocionar forma de pagamento" src="https://media.giphy.com/media/Zdy9jWR6TWUYzq8GuX/giphy.gif">
+
+Caso você queira adicionar um produto que ainda não exite na sua lista,clique em **Novo Produto**, e adicione-o com um nome e o seu valor unitário.
+
+<img alt="Adcionar um novo Produto" src="https://media.giphy.com/media/l17AUjk9CMxRcb1RKl/giphy.gif">
+
+Ao concluir estes passos,clique em finalizar para e vizualiaze-a em relatório de receitas.
+<img alt="Finalizar Processo da nova receita" src="https://i.ibb.co/bQsvqPh/finalizar.png">
 ### Listar clientes
 na página de contas a receber selecione a opção **listar clientes**. Em seguida, será exibido uma tela com todos os seus clientes.
 
@@ -200,7 +207,7 @@ clique em **novo cliente**.
 <img alt="novo cliente" src="https://i.ibb.co/9gbvt34/novocliente.png">
 
 Posteriormente, preencha os dados sugeridos na tela de cadastro para o novo clientes.
-<img alt="cadastrar cliente gif " src="">
+<img alt="cadastrar cliente gif " src="https://media.giphy.com/media/XepcoIT2RhlD9vXVbj/giphy.gif">
 
 Ou vocẽ pode usar um atalho para o mesmo intuito. na mesma página clique na opção **nova receita** e digite o nome do seu cliente. em seguida clique salvar.
 
@@ -218,7 +225,7 @@ Na página de contas a receber, selecione a opção listar categoria de clientes
 
 Posteriormente,digite o nome da sua nova categoria e vizualize-a em listar categotias de clientes
 
-<img alt="nova categoria cliente gif " src="">
+<img alt="nova categoria cliente" src="https://media.giphy.com/media/YplRJ0r1e84xQvh1I9/giphy.gif">
 
 ### Vizualizar produtos
 
