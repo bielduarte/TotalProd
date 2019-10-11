@@ -2,13 +2,16 @@ site_name: TotalProd
 theme: readthedocs
 
 extra_css:
-    - css/extra_css.css
-    
+    - 'css/extra_css.css'
+    - 'css/lightbox.css'
 nav: 
     - Home: index.md
     - Cadastro: cadastro.md
     - Financeiro: financeiro.md
     - Gerencial: gerencial.md
-    
-img: 
-    - img
+        
+repo_url: https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/js/lightbox.min.js
+
+extra_javascript:
+  - 'javascripts/extra.js'
+  - 'javascripts/lightbox.js'
