@@ -289,10 +289,12 @@ Posteriormente,digite o nome da sua nova categoria e vizualize-a em listar categ
 
 Na página de contas a receber, selecione a opção **produtos**.Em seguida será exibido uma tela com todos os seus produtos ja cadastrados. 
 
-### Adiconar produtos 
+<a class="example-image-link" href="https://media.giphy.com/media/KERigx9jfUqzwZDUBE/giphy.gif" data-lightbox="Produto" data-title="Vizualizar produtos">
+<img alt="Entrar Produto" src="https://media.giphy.com/media/KERigx9jfUqzwZDUBE/giphy.gif"></a>
 
-Na pagina de contas a receber selecione a opção Produtos e em seguidano canto superior direito selecione a opção **Novo Produto**
+### Adicionar um novo Produtos 
 
-e insira o seu nome e o valor unitário.
-
-(gif adicionar produtos)DEIXA QUETO POR HOJE
+Na pagina de contas a receber selecione a opção Produtos e em seguidano canto superior direito selecione a opção **Novo Produto**.
+Posteriormente você será redirecionado para a página novo produto. preencha os campos de nome e valor unitário e clique em concluir.
+<a class="example-image-link" href="https://media.giphy.com/media/KCRkR7SAl7xW9Cq45i/giphy.gif" data-lightbox="Produto" data-title="Adcionar um novo Produto">
+<img alt="Novo Produto" src="https://media.giphy.com/media/KCRkR7SAl7xW9Cq45i/giphy.gif"></a>

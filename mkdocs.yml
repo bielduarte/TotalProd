@@ -5,8 +5,8 @@ extra_css:
     - 'css/extra_css.css'
     - 'css/lightbox.css'
 nav: 
-    - Home: Home.md
-    - Cadastro: cadastro.md
+    - Home: index.md
+    - Assinatura: assinatura.md
     - Financeiro: financeiro.md
     - Gerencial: gerencial.md
         
