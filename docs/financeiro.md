@@ -270,41 +270,52 @@ Posteriormente,será exibido uma tela de cadastro para o preechimento dos dados 
 ### gerar um novo contrato 
 O contrato serve para otmizar o tempo da sua empresa,tendo em vista os clientes mais frequentes que fazem os mesmos pedidos durante um determinado tempo.Na página de contas a receber, selecione a opção listar clientes que esta localizada no canto superiordireito da sua tela. Posteriormente será exibido uma tela com todos os clientes cadastrados, escolha o cliente que irá efetuar o contrato e clique no botão **Ver**.
 
-(imagem listar clientes (botão ver))
+<a class="example-image-link" href="https://i.ibb.co/d5kjQVk/listarclientesbotao.png" data-lightbox="contrato" data-title="vizualizar cliente">
+<img alt="Vizualizar cliente" src="https://i.ibb.co/d5kjQVk/listarclientesbotao.png"></a>
 
 Em seguida, todos os dados referentes ao cliente selecionado serão exibidos.No canto superior esquerdo da sua tela selecione a opção **Novo Contrato**.
 
-(imagem novo contrato)
+<a class="example-image-link" href="https://i.ibb.co/zPNYgpK/novocontrato.png" data-lightbox="contrato" data-title="Criar um novo contrato">
+<img alt="Criar   um novo contrato" src="https://i.ibb.co/zPNYgpK/novocontrato.png"></a>
 
 Agora você será redirecionado para a página de contrato, em primeiro lugar selecione o periodo de vigência desse contrato e insira qual o intuito deste em **Descrição**.
 
-(gif selecionar periodo contrato)
+<a class="example-image-link" href="https://media.giphy.com/media/iGSqIRHrG4oaYKtV3J/giphy.gif" data-lightbox="contrato" data-title="Selecionar preiodo de vigência">
+<img alt="Periodo vigência" src="https://media.giphy.com/media/iGSqIRHrG4oaYKtV3J/giphy.gif"></a>
+
 
 Depois de concluir o passo anterior você será redirecionado para a tela de inserção de produtos ao contrato.
-selecione a quantidade e o produtos que você necessitar e clique em **Concluir Assinatura**.
+selecione o produtos que você necessitar e clique em **Concluir Assinatura**.Caso queira, o valor dos Produtos poderão ser alterados.
 
-(gif adcionando produtos ao contrato) 
+<a class="example-image-link" href="https://media.giphy.com/media/ehaJyAhEq2VvNCRTgL/giphy.gif" data-lightbox="contrato" data-title="Adicionar produtos ao contrato">
+<img alt="Adicionar produtos" src="https://media.giphy.com/media/ehaJyAhEq2VvNCRTgL/giphy.gif"></a>
+
 
 ### Gerar uma receita a partir de um contrato
 
 Na página de contas a receber, selecione a opção listar clientes que esta localizada no canto superior direito da sua tela. Posteriormente será exibido uma tela com todos os clientes cadastrados, escolha o cliente que irá efetuar o contrato e clique no botão **Ver**.
 
-(imagem listar clientes (botão clientes))
+
+<a class="example-image-link" href="https://i.ibb.co/d5kjQVk/listarclientesbotao.png" data-lightbox="contrato" data-title="vizualizar cliente">
+<img alt="Vizualizar cliente" src="https://i.ibb.co/d5kjQVk/listarclientesbotao.png"></a>
 
 Em seguida, todos os dados referentes ao cliente selecionado serão exibidos.No canto superior esquerdo da sua tela selecione a opção **Contrato**, clique em ver no contrato que você você desejar. Caso este cliente ainda não tenha um contrato faça um [novo contrato]().
 
-Agora você será redirecionado para a página do contrato. Nesta, clique na opção **Replicar Vendas** digite e quantidade de produtos que você desejar em cada produto e clique em **Confirmar**. Lembre -se que a quantidade que você digitar irá multiplicar a quantidade que já esta no contrato, ou seja, se no contrato você colocou a quantidade 3 copos(por exemplo) e em replicar vendas a quantidade 2, o preço do copo irá multiplicar-se por 6.
+Agora você será redirecionado para a página do contrato. Nesta, clique na opção **Replicar Vendas** digite e quantidade que você desejar em cada produto e clique em **Confirmar**.
 
-(imagem Replicar vendas).
+<a class="example-image-link" href="https://i.ibb.co/hs6sbyn/replicarvendas-1.png" data-lightbox="contrato" data-title="Replicar vendas">
+<img alt="Replicar vendas" src="https://i.ibb.co/hs6sbyn/replicarvendas-1.png"></a>
 
 Posteriormente, na tela de contrato será exibido a receita que você acabou de efetuar. Clique em faturar e em seguida clique em validar.
 
-(gif efetuar e validar contrato)
+<a class="example-image-link" href="https://media.giphy.com/media/lnn2eAPsY5wbK03arB/giphy.gif" data-lightbox="financeiro" data-title="Efetuar e validar receita">
+<img alt="Efetuar e validar receita " src="https://media.giphy.com/media/lnn2eAPsY5wbK03arB/giphy.gif"></a>
 
 Será exido a tela de validação para o preechimento.Digite sua nota fiscal ou caso queira,deixe em branco e nosso sistema fará isso você.insira a descrição dessa receita e o número de parcelas que irá ser recebida.seguidamente clique em **Validar**.
+<a class="example-image-link" href="https://media.giphy.com/media/M9kgtIXbcUIJ4Mhmro/giphy.gif" data-lightbox="financeiro" data-title="Validando receita">
+<img alt="Validando receita " src="https://media.giphy.com/media/M9kgtIXbcUIJ4Mhmro/giphy.gif"></a>
 
-(gif validando)
-
+<!-- ### Fatura  -->
 
 ### Listar categorias de Clientes
 
