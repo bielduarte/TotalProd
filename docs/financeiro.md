@@ -315,7 +315,6 @@ Será exido a tela de validação para o preechimento.Digite sua nota fiscal ou 
 <a class="example-image-link" href="https://media.giphy.com/media/M9kgtIXbcUIJ4Mhmro/giphy.gif" data-lightbox="financeiro" data-title="Validando receita">
 <img alt="Validando receita " src="https://media.giphy.com/media/M9kgtIXbcUIJ4Mhmro/giphy.gif"></a>
 
-<!-- ### Fatura  -->
 
 ### Listar categorias de Clientes
 
@@ -348,3 +347,12 @@ Na pagina de contas a receber selecione a opção Produtos e em seguidano canto 
 Posteriormente você será redirecionado para a página novo produto. preencha os campos de nome e valor unitário e clique em concluir.
 <a class="example-image-link" href="https://media.giphy.com/media/KCRkR7SAl7xW9Cq45i/giphy.gif" data-lightbox="Produto" data-title="Adcionar um novo Produto">
 <img alt="Novo Produto" src="https://media.giphy.com/media/KCRkR7SAl7xW9Cq45i/giphy.gif"></a>
+
+## Faturamento 
+
+### Gerar uma pré-fatura
+A pré-fatura é uma ferramenta para o auxilio á comunicação entre a empresa e o cliente, fornecendo uma visão prévia da receita para possíveis ajustes ou alterções na sua fatura. [Dentro das informações gerais do cliente][1] clique em contratos e em seguida selecione o contrato vigente do mesmo, caso este não possua um contrato crie um [novo contrato][2]. 
+
+(gif vizualizar contrato)
+
+Posteriormente na página do contrato, [faça um novo pedido][3] e selecione como forma de pagamento a opção **Faturar**. em seguida você será redirecionado para o contrato novamente,clique na opção 
