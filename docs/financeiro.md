@@ -246,7 +246,7 @@ Ao concluir estes passos,clique em finalizar para e vizualiaze-a em relatório d
 <img alt="Finalizar Processo da nova receita" src="https://i.ibb.co/bQsvqPh/finalizar.png"></a>
 
 ### Listar clientes
-na página de contas a receber selecione a opção **listar clientes**. Em seguida, será exibido uma tela com todos os seus clientes.
+Na página de contas a receber selecione a opção **listar clientes**. Em seguida, será exibido uma tela com todos os seus clientes.
 
 <a class="example-image-link" href="https://i.ibb.co/pJXj5JX/listarcliente.png" data-lightbox="financeiro" data-title="como vizualizar a área financeira">
 <img alt="listar clientes" src="https://i.ibb.co/pJXj5JX/listarcliente.png"></a>
@@ -348,11 +348,38 @@ Posteriormente você será redirecionado para a página novo produto. preencha o
 <a class="example-image-link" href="https://media.giphy.com/media/KCRkR7SAl7xW9Cq45i/giphy.gif" data-lightbox="Produto" data-title="Adcionar um novo Produto">
 <img alt="Novo Produto" src="https://media.giphy.com/media/KCRkR7SAl7xW9Cq45i/giphy.gif"></a>
 
-## Faturamento 
+## Faturamento cliente 
 
 ### Gerar uma pré-fatura
-A pré-fatura é uma ferramenta para o auxilio á comunicação entre a empresa e o cliente, fornecendo uma visão prévia da receita para possíveis ajustes ou alterções na sua fatura. [Dentro das informações gerais do cliente][1] clique em contratos e em seguida selecione o contrato vigente do mesmo, caso este não possua um contrato crie um [novo contrato][2]. 
+A pré-fatura é uma ferramenta para o auxilio á comunicação entre a empresa e o cliente, fornecendo uma visão prévia da receita para possíveis ajustes ou alterções na sua fatura. [Dentro das informações gerais do cliente][1] clique em contratos e em seguida selecione o contrato vigente do mesmo, caso este não possua um contrato crie um [novo contrato][2].
 
-(gif vizualizar contrato)
 
-Posteriormente na página do contrato, [faça um novo pedido][3] e selecione como forma de pagamento a opção **Faturar**. em seguida você será redirecionado para o contrato novamente,clique na opção 
+Posteriormente na página do contrato, [faça um novo pedido][3] e selecione como forma de pagamento a opção Faturar. em seguida você será redirecionado para o contrato novamente, clique em Faturar para ter acesso aos dados do seu pedido efetuado anteriormente.
+
+(vizualizar pré fatura )
+
+Para gerar a Pré-fatura basta clicar em **Gerar PDF pré-fatura** antes de validar. Caso queira será diponibilizado um arquivo da para download da sua pré-fatura nesta mesma página.
+
+(gif gerar pdf pré-farura)
+
+O caminho anterior é uma opção para a pré-fatura vinculada a um contrado do cliente.Há tambem, a opção da pré-fatura vinculada apenas ao cliente sem necessitar de um contrato vigente,gerada a partir de um pedido.Dentro das informações gerais do cliente, clique diretamente em Pedido e como forma de pagamento selecione a opção Faturar.
+
+(gif pedido cliente)
+
+Após efetuar o pedido, vizulize a pré-fatura na parte inferior das informações gerais do seu cliente, clicando em Faturar vendas, onde será exibido todas as pré-faturas de acordo com o periodo que você estimar, inclusive as do contrato. Caso queira, selecione uma pré-fatura que você deseja e efetue o download da mesma.
+
+(gif vizualizar )
+
+### Validar pré-faturas e efetuar pagamentos
+
+Antes de efetuar qualquer pagamento de uma fatura é preciso validá-la, pois podem ocorrer imprevistos e esta fatura se tornar inviável e for necessário cancelá-la.após gerar uma pré-fatura,dentro das informações gerais do cliente na parte inferior da tela selecione a opção **Faturas aguardando aprovação** e clique em **ver** na pré-fatura que você pretende validar.
+
+(gif vizualizar fatura em aguardo)
+
+Posteriormente, você será redirecionado para a vizualização da sua pré-fatura. na parte superior da sua tela clique em **Validar Fatura**  e defina os dados sugeridos na validação.
+
+(gif validando pré-fatura) 
+
+Após a validação efetue o pagamento, caso não queira selecione apenas saia desta pagina e sua fatura será redirecionada para o [fatutamento previsto][4].Para efetuar o pagamento basta clicar em **Pagamento**.
+
+<!-- ## Faturamento geral -->
