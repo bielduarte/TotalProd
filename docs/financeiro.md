@@ -345,41 +345,49 @@ Na página de contas a receber, selecione a opção **produtos**.Em seguida ser�
 
 Na pagina de contas a receber selecione a opção Produtos e em seguidano canto superior direito selecione a opção **Novo Produto**.
 Posteriormente você será redirecionado para a página novo produto. preencha os campos de nome e valor unitário e clique em concluir.
-<a class="example-image-link" href="https://media.giphy.com/media/KCRkR7SAl7xW9Cq45i/giphy.gif" data-lightbox="Produto" data-title="Adcionar um novo Produto">
-<img alt="Novo Produto" src="https://media.giphy.com/media/KCRkR7SAl7xW9Cq45i/giphy.gif"></a>
+
 
 ## Faturamento cliente 
-
+(conceito)
 ### Gerar uma pré-fatura
-A pré-fatura é uma ferramenta para o auxilio á comunicação entre a empresa e o cliente, fornecendo uma visão prévia da receita para possíveis ajustes ou alterções na sua fatura. [Dentro das informações gerais do cliente][1] clique em contratos e em seguida selecione o contrato vigente do mesmo, caso este não possua um contrato crie um [novo contrato][2].
+A pré-fatura é uma ferramenta para o auxilio á comunicação entre a empresa e o cliente, fornecendo uma visão prévia da receita para possíveis ajustes ou alterções na sua fatura. [Dentro das informações gerais do cliente][1] clique em contratos e em seguida selecione o contrato vigente do mesmo, caso este não possua um contrato crie um [novo contrato][2].Posteriormente na página do contrato, [faça um novo pedido][3] e selecione como forma de pagamento a opção Faturar. em seguida você será redirecionado para o contrato novamente, clique em Faturar para ter acesso aos dados do seu pedido efetuado anteriormente.
 
-
-Posteriormente na página do contrato, [faça um novo pedido][3] e selecione como forma de pagamento a opção Faturar. em seguida você será redirecionado para o contrato novamente, clique em Faturar para ter acesso aos dados do seu pedido efetuado anteriormente.
-
-(vizualizar pré fatura )
+<a class="example-image-link" href="https://media.giphy.com/media/lOV5gvAfackNci0nfe/giphy.gif" data-lightbox="Faturamento" data-title="">
+<img alt="pré-fatura" src="https://media.giphy.com/media/lOV5gvAfackNci0nfe/giphy.gif"></a>
 
 Para gerar a Pré-fatura basta clicar em **Gerar PDF pré-fatura** antes de validar. Caso queira será diponibilizado um arquivo da para download da sua pré-fatura nesta mesma página.
 
-(gif gerar pdf pré-farura)
+<a class="example-image-link" href="https://media.giphy.com/media/Mc0pJ6FvZjRhjZ1Vyy/giphy.gif" data-lightbox="Faturamento" data-title="Gerar pré-fatura">
+<img alt="Gerar pré-fatura" src="https://media.giphy.com/media/Mc0pJ6FvZjRhjZ1Vyy/giphy.gif"></a>
 
 O caminho anterior é uma opção para a pré-fatura vinculada a um contrado do cliente.Há tambem, a opção da pré-fatura vinculada apenas ao cliente sem necessitar de um contrato vigente,gerada a partir de um pedido.Dentro das informações gerais do cliente, clique diretamente em Pedido e como forma de pagamento selecione a opção Faturar.
 
-(gif pedido cliente)
+<a class="example-image-link" href="https://media.giphy.com/media/IbTdef5Aqsx2O1Wph3/giphy.gif" data-lightbox="Faturamento" data-title="Efetuar pedido cliente">
+<img alt="pedido" src="https://media.giphy.com/media/IbTdef5Aqsx2O1Wph3/giphy.gif"></a>
+
 
 Após efetuar o pedido, vizulize a pré-fatura na parte inferior das informações gerais do seu cliente, clicando em Faturar vendas, onde será exibido todas as pré-faturas de acordo com o periodo que você estimar, inclusive as do contrato. Caso queira, selecione uma pré-fatura que você deseja e efetue o download da mesma.
 
-(gif vizualizar )
+<a class="example-image-link" href="https://media.giphy.com/media/kyvLD9BYhPbwD73Mz1/giphy.gif" data-lightbox="Faturamento" data-title="Vizualizar pré-fatura">
+<img alt="Vizulizar pré-fatura" src="https://media.giphy.com/media/kyvLD9BYhPbwD73Mz1/giphy.gif"></a>
 
 ### Validar pré-faturas e efetuar pagamentos
 
 Antes de efetuar qualquer pagamento de uma fatura é preciso validá-la, pois podem ocorrer imprevistos e esta fatura se tornar inviável e for necessário cancelá-la.após gerar uma pré-fatura,dentro das informações gerais do cliente na parte inferior da tela selecione a opção **Faturas aguardando aprovação** e clique em **ver** na pré-fatura que você pretende validar.
 
-(gif vizualizar fatura em aguardo)
+<a class="example-image-link" href="https://media.giphy.com/media/gK5tqjxNAJAu0PfnF6/giphy.gif" data-lightbox="faturamento" data-title="Vizualizar pré-fatura">
+<img alt="vizualizar" src="https://media.giphy.com/media/gK5tqjxNAJAu0PfnF6/giphy.gif"></a>
 
 Posteriormente, você será redirecionado para a vizualização da sua pré-fatura. na parte superior da sua tela clique em **Validar Fatura**  e defina os dados sugeridos na validação.
 
-(gif validando pré-fatura) 
+<a class="validando-fatura" href="https://i.ibb.co/4jcxCYL/teste.gif" data-lightbox="faturamento" data-title="validar pré-fatura">
+<img alt="Validar" src="https://i.ibb.co/4jcxCYL/teste.gif"> </a>
 
-Após a validação efetue o pagamento, caso não queira selecione apenas saia desta pagina e sua fatura será redirecionada para o [fatutamento previsto][4].Para efetuar o pagamento basta clicar em **Pagamento**.
+Após a validação efetue o pagamento, caso não queira apenas saia desta pagina e sua fatura será redirecionada para o [fatutamento previsto][4].Para efetuar o pagamento basta clicar em **Pagamento** e selecionar para onde essa fatura irá direcionar-se.
 
-<!-- ## Faturamento geral -->
+<a class="validando-fatura" href="https://i.ibb.co/pXY6928/pagemntofatura.gif" data-lightbox="faturamento" data-title="Efetuar pagamento">
+<img alt="pagamento" src="https://i.ibb.co/pXY6928/pagemntofatura.gif"> </a>
+
+ <!-- ## Faturamento geral
+ (conceito) -->
+ 
