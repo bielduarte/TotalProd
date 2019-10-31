@@ -214,7 +214,7 @@ Na paǵina de contas a receber,selecione a opção de listar tipos de receitas.P
 <img alt="novo tipo receita gif" src="https://media.giphy.com/media/RNVdzgVY6bgwcNSuYd/giphy.gif"></a>
 
 ### Adiocionar uma nova receita
-Na página de contas a receber, clique em **nova receita** e selecione o cliente para qual vocẽ irá direcionar este processo.
+Os pedidos em uma receita são realidos quando há uma compra de um cliente,pode ser realizado a partir de um contrato ou apenas referente a uma compra única. Na página de contas a receber, clique em **nova receita** e selecione o cliente para qual vocẽ irá direcionar este processo.
 
 <a class="example-image-link" href="https://i.ibb.co/58x6gtL/novareceita.png" data-lightbox="financeiro" data-title="como vizualizar a área financeira">
 <img alt="nova receita " src="https://i.ibb.co/58x6gtL/novareceita.png"></a>
@@ -341,17 +341,29 @@ Na página de contas a receber, selecione a opção **produtos**.Em seguida ser�
 <a class="example-image-link" href="https://media.giphy.com/media/KERigx9jfUqzwZDUBE/giphy.gif" data-lightbox="Produto" data-title="Vizualizar produtos">
 <img alt="Entrar Produto" src="https://media.giphy.com/media/KERigx9jfUqzwZDUBE/giphy.gif"></a>
 
-### Adicionar um novo Produtos 
+### Adicionar um novo Produto
 
 Na pagina de contas a receber selecione a opção Produtos e em seguidano canto superior direito selecione a opção **Novo Produto**.
+
+<a class="example-image-link" href="https://i.ibb.co/fQHtvcw/novoproduto.png" data-lightbox="Produto" data-title="Novo produto">
+<img alt="Entrar Produto" src="https://i.ibb.co/fQHtvcw/novoproduto.png"></a>
+
+
 Posteriormente você será redirecionado para a página novo produto. preencha os campos de nome e valor unitário e clique em concluir.
 
+<a class="example-image-link" href="https://i.ibb.co/rGTt3jh/novoproduto.gif" data-lightbox="Produto" data-title="Adicionar um novo produto">
+<img alt="Novo Produto" src="https://i.ibb.co/rGTt3jh/novoproduto.gif"></a>
 
 ## Faturamento cliente 
-(conceito)
-### Gerar uma pré-fatura
-A pré-fatura é uma ferramenta para o auxilio á comunicação entre a empresa e o cliente, fornecendo uma visão prévia da receita para possíveis ajustes ou alterções na sua fatura. [Dentro das informações gerais do cliente][1] clique em contratos e em seguida selecione o contrato vigente do mesmo, caso este não possua um contrato crie um [novo contrato][2].Posteriormente na página do contrato, [faça um novo pedido][3] e selecione como forma de pagamento a opção Faturar. em seguida você será redirecionado para o contrato novamente, clique em Faturar para ter acesso aos dados do seu pedido efetuado anteriormente.
+ O faturamento bruto, também chamado de receita bruta corresponde ao valor referente às vendas de um determinado período. Assim, são os produtos vendidos na empresa, as mercadorias no comércio e o valor referente aos trabalhos prestados por determinada empresa no setor de serviços. no TotalProd há uma divisão 
+ sobre o faturamento, o específico referente a um único cliente e o geral referente a todos os clientes.   
 
+### Gerar uma pré-fatura
+A pré-fatura é uma ferramenta para o auxilio á comunicação entre a empresa e o cliente, fornecendo uma visão prévia da receita para possíveis ajustes ou alterções na sua fatura. Dentro das [informações gerais do cliente][1] clique em contratos e em seguida selecione o contrato vigente do mesmo, caso este não possua um contrato crie um [novo contrato][2].Posteriormente na página do contrato, [faça um novo pedido][3] e selecione como forma de pagamento a opção Faturar. em seguida você será redirecionado para o contrato novamente, clique em Faturar para ter acesso aos dados do seu pedido efetuado anteriormente.
+
+[1]: https://bielduarte.github.io/TotalProd/financeiro/#gerar-um-novo-contrato
+[2]: https://bielduarte.github.io/TotalProd/financeiro/#gerar-um-novo-contrato
+[3]: https://bielduarte.github.io/TotalProd/financeiro/#adiocionar-uma-nova-receita
 <a class="example-image-link" href="https://media.giphy.com/media/lOV5gvAfackNci0nfe/giphy.gif" data-lightbox="Faturamento" data-title="">
 <img alt="pré-fatura" src="https://media.giphy.com/media/lOV5gvAfackNci0nfe/giphy.gif"></a>
 
@@ -388,6 +400,63 @@ Após a validação efetue o pagamento, caso não queira apenas saia desta pagin
 <a class="validando-fatura" href="https://i.ibb.co/pXY6928/pagemntofatura.gif" data-lightbox="faturamento" data-title="Efetuar pagamento">
 <img alt="pagamento" src="https://i.ibb.co/pXY6928/pagemntofatura.gif"> </a>
 
- <!-- ## Faturamento geral
- (conceito) -->
- 
+### Realizar pagamentos validados
+Por diversos motivos, algumas faturas validadas não são pagas de imediato e consequente são enviadas para a aba de faturamento previsto. Para efeutar o pagamento dessas faturas, na página do seu cliente selecione clique em **faturamento previsto** no canto inferior esquerdo da sua tela, onde será exibido todas as suas faturas com todas as informações. 
+
+
+<a class="validando-fatura" href="https://i.ibb.co/b5HmWkB/viazualiar-FP.gif" data-lightbox="faturamento" data-title="Efetuar pagamento">
+<img alt="Vizualizado pagamentos previstos " src="https://i.ibb.co/b5HmWkB/viazualiar-FP.gif"> </a>
+
+
+Posteriormente selecione a fatura que deseja efeutar o pagamento e clique em ver. em seguida você será redirecionado para a pagina exclusiva dessa fatura.
+
+<a class="validando-fatura" href="https://i.ibb.co/0K8kSS3/visualizarfatura-FP.gif" data-lightbox="faturamento" data-title="Vizualizar página da fatura">
+<img alt="Vizualizado página da fatura " src="https://i.ibb.co/0K8kSS3/visualizarfatura-FP.gif"> </a>
+
+Nesta página, clique em **Pagamento**, selecione a forma de pagá-la (pagamento parcial ou pagamento total) e o caixa ou banco para qual esta receita será redirecionada. caso você selecione o pagamento parcial, a outra parte da fatura será redirecionada para a aba de faturamento previsto.
+
+<a class="validando-fatura" href="https://i.ibb.co/5BTdrSQ/pagemento-FP.gif" data-lightbox="faturamento" data-title="Realizar pagamento validado">
+<img alt="pagemnto validado" src="https://i.ibb.co/5BTdrSQ/pagemento-FP.gif"> </a>
+
+## Faturamento geral
+ O faturamento bruto, também chamado de receita bruta corresponde ao valor referente às vendas de um determinado período. Assim, são os produtos vendidos na empresa, as mercadorias no comércio e o valor referente aos trabalhos prestados por determinada empresa no setor de serviços. no TotalProd há uma divisão 
+ sobre o faturamento, o específico referente a um único cliente e o geral referente a todos os clientes.   
+
+### validar pagamento 
+para validar um pagamento é necessário que esse esteja como [pré-fatura][pre], caso não esteja 
+realize o pagamento direto. Dentro de contas a receber, no canto inferior direito, selecione a opção **Faturas aguardando aprovação**.
+[pre]: https://bielduarte.github.io/TotalProd/financeiro/#gerar-uma-pre-fatura
+
+<a class="validando-fatura" href="https://i.ibb.co/p1XwHSr/abrirfaturaaguardando.gif" data-lightbox="faturamento geral" data-title="Abrir Fauturas aguardando aprovação ">
+<img alt="abrir" src="https://i.ibb.co/p1XwHSr/abrirfaturaaguardando.gif"> </a>
+
+
+Posteriormente,selecione a pré-fatura que você deseja validar e clique em **Ver**. será exibido uma página com todas as informações da sua pré-fatura,nessa, clique em Validar e preencha os campos exigidos.
+
+<a class="validando-fatura" href="https://i.ibb.co/HzjD0vN/validarprefatura.gif" data-lightbox="faturamento geral" data-title="Validar pré-fatura">
+<img alt="validar" src="https://i.ibb.co/HzjD0vN/validarprefatura.gif"> </a>
+
+### Realizar pagamento validado
+Os pagamentos realizados nesta seção são relacionados aos pedidos do seu cliente, referentes a um contrato ou não. Dentro de contas a receber, no canto inferior esquerdo selecione a opção
+**Faturamento previsto**.
+
+<a class="validando-fatura" href="https://i.ibb.co/5MyvZvD/abrirfaturaemaguardo.gif" data-lightbox="faturamento geral" data-title="Abrir faturamento previsto">
+<img alt="abrir faturamento previsto" src="https://i.ibb.co/5MyvZvD/abrirfaturaemaguardo.gif"> </a>
+
+Posteriormente, selecione a fatura que você deseja pagar e clique em **Ver**. Será exibida uma página com todas as informações da sua fatura,nessa, clique em **Pagamento** selecione para onde esta receita será direcionda.
+
+<a class="validando-fatura" href="https://i.ibb.co/QcbGsvw/pagamentofaturaem.gif" data-lightbox="faturamento geral" data-title="Realizar pagamento">
+<img alt="Realizar pagamento" src="https://i.ibb.co/QcbGsvw/pagamentofaturaem.gif"> </a>
+
+
+### Relatório de receita por periodo
+Os relatórios por período são usados para você ter uma visão mais detalhada sobre os tipos, quantidade de pedidos realizados, a receita de total de um periodo e facilita a tomada de atitudes referentes aos dados que você vizualizar. Dentro da página contas a receber, selecione a opçao de **Relatório de receita por período**
+
+<a class="validando-fatura" href="https://i.ibb.co/4MCckWg/selecionarperiodo.png" data-lightbox="faturamento" data-title="Selecionar periodo">
+<img alt="Selecionar periodo" src="https://i.ibb.co/4MCckWg/selecionarperiodo.png"> </a>
+
+Posteriormente, selecione o período que você deseja vizulizar suas receitas.
+
+<a class="validando-fatura" href="https://i.ibb.co/hLWG4Fy/selecionarperiodo.gif" data-lightbox="faturamento" data-title="Selecionar periodo">
+<img alt="Selecionar periodo" src="https://i.ibb.co/hLWG4Fy/selecionarperiodo.gif"> </a>
+
