@@ -1,5 +1,6 @@
 site_name: TotalProd
-theme: readthedocs
+theme: 
+  name: material
 
 extra_css:
     - 'css/extra_css.css'
@@ -10,8 +11,9 @@ nav:
     - Financeiro: financeiro.md
     - Gerencial: gerencial.md
         
-repo_url: https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/js/lightbox.min.js
+repo_url: https://totalprod.com.br
 
-extra_javascript:
-  - 'javascripts/extra.js'
+extra_javascript: 
+  - 'javascripts/jquery.min.js'
   - 'javascripts/lightbox.js'
+  - 'javascripts/extra.js'

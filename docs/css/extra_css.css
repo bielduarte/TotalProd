@@ -23,3 +23,7 @@ body {
      max-width: 70%; 
      height: auto !important;
       } 
+.md-typeset img {
+
+max-width: 70%
+}
