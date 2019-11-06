@@ -1,7 +1,8 @@
 site_name: TotalProd
-theme: 
+theme:
   name: material
-
+  language: 'pt'
+  logo: 'https://totalprod.com.br/src-app/images/iconbg.svg'
 extra_css:
     - 'css/extra_css.css'
     - 'css/lightbox.css'
@@ -11,9 +12,13 @@ nav:
     - Financeiro: financeiro.md
     - Gerencial: gerencial.md
         
-repo_url: https://totalprod.com.br
 
 extra_javascript: 
   - 'javascripts/jquery.min.js'
   - 'javascripts/lightbox.js'
   - 'javascripts/extra.js'
+  
+plugins:
+    - search:
+        lang: pt
+     
