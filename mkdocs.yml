@@ -1,11 +1,20 @@
 site_name: TotalProd
+site_description: documentação do projeto TotalProd
+site_author: Gabriel Duarte
+  
+repo_url: https://totalprod.com.br/ 
+edit_uri : " "
+
 theme:
   name: material
   language: 'pt'
   logo: 'https://totalprod.com.br/src-app/images/iconbg.svg'
+  favicon: 'assets/images/favicon.ico'
+
 extra_css:
     - 'css/extra_css.css'
     - 'css/lightbox.css'
+
 nav: 
     - Home: index.md
     - Assinatura: assinatura.md
@@ -18,7 +27,6 @@ extra_javascript:
   - 'javascripts/lightbox.js'
   - 'javascripts/extra.js'
   
-plugins:
-    - search:
-        lang: pt
-     
+copyright: direitos autorais e cópia; 2019<a href="https://github.com/bielduarte"> Gabriel Duarte</a>
+google_analytics: ['UA-27795084-5', 'mkdocs.org']
+

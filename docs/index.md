@@ -1,6 +1,6 @@
 # TotalProd 
 
-TotalProd é uma plataforma de gerenciamento administrativo empresarial para médio e micro empresas, que disponibiliza recursos administrativos a qualquer hora e de fácil acesso. Tais como gestão financeira,controle de estoque,controle de vendas,gestão de contratos,dentre outras diversas vantagens que a esse sistema proporciona ao cliente. [Veja como assinar](assinatura.md) ou [testar grátis][1].
+TotalProd é uma plataforma de gerenciamento administrativo empresarial para médio e micro empresas, que disponibiliza recursos administrativos a qualquer hora e de fácil acesso. Tais como gestão financeira,controle de estoque, controle de vendas, gestão de contratos, dentre outras diversas vantagens que a esse sistema proporciona ao cliente. [Veja como assinar](assinatura.md) ou [testar grátis][1].
 [1]: https://bielduarte.github.io/TotalProd/assinatura/#teste-gratis
 
 ## Gestão Financeira 
